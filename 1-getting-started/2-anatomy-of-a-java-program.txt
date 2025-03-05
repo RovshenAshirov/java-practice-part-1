@@ -1,0 +1,34 @@
+# Anatomy of a Java Program
+
+Function
+A block of code that performs a task
+
+ReturnType Name() {
+    ...
+}
+ 
+void senEmail() {
+    ...
+}
+
+void main() {
+    ...
+}
+
+Class
+A container for related functions
+
+class Main {
+    void main() {
+        ...
+    }
+}
+
+public class Main {
+    public void main() {
+        ...
+    }
+}
+
+PascalNamingConvention -> Classes
+camelNamingConvention -> Methods
