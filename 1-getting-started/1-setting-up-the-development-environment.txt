@@ -1,0 +1,14 @@
+# Setting Up the Development Environment
+
+search google -> jdk download
+
+JDK - Java Development Kit
+
+open oracle.com -> Download -> Accept License Agreement -> Download jdk-21 and install
+
+Popular Code Editors
+- NetBeans
+- Eclipse
+- IntelliJ
+
+Download and install IntelliJ IDEA Community Edition
