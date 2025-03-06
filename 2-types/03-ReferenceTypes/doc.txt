@@ -1,0 +1,5 @@
+# Reference Types
+
+Primitive (numbers, characters, booleans)
+Reference (date, mail message)
+
