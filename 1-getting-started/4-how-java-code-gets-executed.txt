@@ -1,0 +1,19 @@
+# How Java Code Gets Executed
+
+Compilation
+Execution
+
+Source Code (*.java) -> Java Compiler -> Byte Code (*.class)
+
+Open terminal
+cd src/
+javac Main.java
+ls # Main.java Main.class
+
+out (folder)
+
+Java Runtime Environment (JRE)
+
+Byte Code (*.class) -> Java Virtual Machine -> Native Code (Windows, Mac, ...)
+
+java Main.java  # in terminal
