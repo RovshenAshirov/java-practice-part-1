@@ -1,0 +1,26 @@
+# Primitive Types vs Reference Types
+
+Primitive Types
+          x       y
+|   |   | 1 |   | 1 |   |
+
+          x       y
+|   |   | 2 |   | 1 |   |
+
+Reference Types
+
+|   |   | Point(1,1) |   |   |   |
+          addr: 100
+           ^
+           |
+          point1
+|   |   | 100 |   |   |   |
+
+-----------------------------------
+
+|   |   | Point(1,1) |   |   |   |
+          addr: 100
+           ^       ^
+           |        \
+          point1    point2
+|   |   | 100 |   | 100 |   |
