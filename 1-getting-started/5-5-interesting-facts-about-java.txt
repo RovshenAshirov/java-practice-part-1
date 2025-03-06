@@ -1,0 +1,16 @@
+# 5 Interesting Facts about Java
+
+1. Java was developed by James Gosling in 1995
+
+2. Java Editions
+
+Standart Edition (SE)
+Enterprise Edition (EE)
+Micro Edition (ME)
+Java Card
+
+3. Java SE 21
+
+4. 9 Million Developers
+
+5. $101,929 indeed.com - May 2019 in USA
